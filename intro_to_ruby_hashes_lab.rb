@@ -4,7 +4,6 @@ end
 
 def actor
   :name => "Dwayne the Rock Johnson"
-
 end
 
 def monopoly
